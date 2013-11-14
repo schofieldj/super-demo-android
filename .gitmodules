@@ -1,0 +1,12 @@
+[submodule "jni/game-demo"]
+	path = jni/game-demo
+	url = https://github.com/schofieldj/game-demo
+	branch = master
+[submodule "jni/lib-game"]
+	path = jni/lib-game
+	url = https://github.com/schofieldj/lib-game
+	branch = master
+[submodule "jni/lib-system"]
+	path = jni/lib-system
+	url = https://github.com/schofieldj/lib-system-android
+	branch = master
