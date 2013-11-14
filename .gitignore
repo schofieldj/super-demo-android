@@ -2,3 +2,6 @@
 .settings
 bin
 gen
+libs
+obj
+proguard
